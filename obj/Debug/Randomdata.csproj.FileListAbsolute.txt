@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\Randomdata\bin\Debug\Randomdata.exe.config
+C:\Users\User\source\repos\Randomdata\bin\Debug\Randomdata.exe
+C:\Users\User\source\repos\Randomdata\bin\Debug\Randomdata.pdb
+C:\Users\User\source\repos\Randomdata\obj\Debug\Randomdata.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Randomdata\obj\Debug\Randomdata.exe
+C:\Users\User\source\repos\Randomdata\obj\Debug\Randomdata.pdb
